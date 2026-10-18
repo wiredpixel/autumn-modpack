@@ -1,0 +1,13 @@
+name = "Xaero's Minimap"
+filename = "xaerominimap-neoforge-26.3-26.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7902ff696661317148b536b418414194b8e92eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9067208
+project-id = 263420

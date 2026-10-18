@@ -1,0 +1,13 @@
+name = "Lithium (Fabric/NeoForge)"
+filename = "lithium-neoforge-0.26.2+mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d11e085f74dda6fb797dfc4296cf4086fddfdcb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8996663
+project-id = 360438

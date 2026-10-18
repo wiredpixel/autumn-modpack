@@ -1,0 +1,13 @@
+name = "ManyIdeas Halloween"
+filename = "ManyIdeasHalloween-26.3-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1f47d75a375c6a04e995965053022f052857c9e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9057631
+project-id = 689461

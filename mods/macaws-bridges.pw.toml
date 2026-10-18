@@ -1,0 +1,13 @@
+name = "Macaw's Bridges"
+filename = "mcw-bridges-3.1.2-mc26.3neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2aa1496673e0914633aacef54738e3d1501eeed4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8959854
+project-id = 351725

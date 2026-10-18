@@ -1,0 +1,50 @@
+/tp Summerly57 ~ ~ ~ 0 90
+/tp Summerly57 ~ ~ ~ 90 0
+/tp Summerly57 ~ ~ ~ 0 0
+/tp Summerly57 ~ ~ ~ 90 0
+/tp Summerly57 ~ ~ ~ 180 0
+/tp Summerly57 ~ ~ ~ -90 0
+/tp Summerly57 ~ ~ ~ 0 90
+/tp Summerly57 ~ ~ ~ 0 -90
+/weather clear
+/time set day
+/tick freeze
+/tp Summerly57 ~ ~ ~ 0 0
+/tp Summerly57 ~ ~ ~ 90 0
+/tp Summerly57 ~ ~ ~ 180 0
+/tp Summerly57 ~ ~ ~ -90 0
+/tp Summerly57 ~ ~ ~ 0 -90
+/tp Summerly57 ~ ~ ~ 0 90
+/tp Summerly57 ~ ~ ~ 0 0
+/tp Summerly57 ~ ~ ~ 90 0
+/tp Summerly57 ~ ~ ~ 180 0
+/tp Summerly57 ~ ~ ~ -90 0
+/tp Summerly57 ~ ~ ~ 0 -90
+/tp Summerly57 ~ ~ ~ 0 90
+/tp Summerly57 ~ ~ ~ 0 0
+/time set minecraft:night
+/tp Summerly57 ~ ~ ~ 90 0
+/tp Summerly57 ~ ~ ~ 180 0
+/tp Summerly57 ~ ~ ~ -90 0
+/tp Summerly57 ~ ~ ~ 0 -90
+/tp Summerly57 ~ ~ ~ 0 90
+/tp Summerly57 ~ ~ ~ 90 0
+/tp Summerly57 ~ ~ ~ 0 0
+/tp Summerly57 ~ ~ ~ 90 0
+/tp Summerly57 ~ ~ ~ 180 0
+/tp Summerly57 ~ ~ ~ -90 0
+/tp Summerly57 ~ ~ ~ 0 -90
+/tp Summerly57 ~ ~ ~ 0 90
+/team modify Samsung suffix "\n hey"
+/team modify Samsung suffix ""
+/team modify Samsung prefix "\b hey"
+/team modify Samsung prefix "\N hey"
+/team modify Samsung prefix "\r hey"
+/team join Microsoft
+/team join Samsung
+/team join AternosCrew
+/team join Samsung
+/kill
+/give Summerly57 minecraft:black_bed
+/clear
+/kill

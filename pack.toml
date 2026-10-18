@@ -1,0 +1,13 @@
+name = "Autumn Modpack"
+author = "wiredpixel"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "29a0ff85107de5403ce339fc68c3dd78a91c27b5ac3b20f3dc49b0c911e1820e"
+
+[versions]
+minecraft = "26.3"
+neoforge = "26.3.0.90"

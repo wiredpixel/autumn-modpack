@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-neoforge-22.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d97172dfd753f70a1ece295af19bc1a8bcd32f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9111315
+project-id = 419699

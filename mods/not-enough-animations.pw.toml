@@ -1,0 +1,13 @@
+name = "Not Enough Animations"
+filename = "notenoughanimations-neoforge-1.12.6-mc26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cfcbc764013d5ac0f27d11adb291dce239c144f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8929073
+project-id = 433760
