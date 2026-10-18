@@ -422,6 +422,11 @@ hash = "27755d0e861f5248c112a0c781a80c3d3a7cb867c31c6c9f894a6d6f7b2ada57"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "57b13fa28e2832fd240f93af510b18f69eb7fd18d364cb8a5b6c4c09a12acf35"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2457d4c59eff44e7d6c1f15781bdee045ffca1f7ce6a57a26b824847492974a6"
 metafile = true
