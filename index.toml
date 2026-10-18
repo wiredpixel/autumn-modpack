@@ -327,11 +327,6 @@ hash = "5cfbeab8c9ee265850596c99af568b70e64b820c62c26c3c2f94fc397bf4c841"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "037fd7aeb4af0e350869aa363bb405744979ce9a459395f58ba8f39e30056241"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "c2d1674a4d1466e09946819d58436b555256613d2cbcb8f12e26d950bd76d8ef"
 metafile = true
@@ -424,11 +419,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "27755d0e861f5248c112a0c781a80c3d3a7cb867c31c6c9f894a6d6f7b2ada57"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "6d2489fa329e4061dafca61c74b1f0a9f73f9f491d9d5c8921dd8b6197f6dbc5"
 metafile = true
 
 [[files]]
