@@ -462,17 +462,16 @@ hash = "4528c8f5af6a2dde73ce8316f963c51d0e6b4a51ea59a94fb6df038a90ad005a"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.pw.toml"
-hash = "e7cdaffa8a9f2edbce1de25ce55387680dfaac7ef6838d865811ec35c818e487"
-metafile = true
-
-[[files]]
 file = "options.txt"
 hash = "1b88a07c93a1b4865e43a8e153315098c1ca982b33e76a3c73942b1de4bfa7dd"
 
 [[files]]
 file = "realms_persistence.json"
 hash = "6fcaca997cf2f0b0a907e3fab539a9b13e3e002dd1c6215a0093a820b79513df"
+
+[[files]]
+file = "resourcepacks/§3Safe Modpack.zip"
+hash = "7b516f1af8ae547cab109abd7b97c19b253bc7a80d5fe8bc012b83fd12558c9a"
 
 [[files]]
 file = "screenshots/panorama_0.png"
