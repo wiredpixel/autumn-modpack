@@ -297,6 +297,11 @@ file = "mods/SereneSeasons-neoforge-26.3-26.1.2.0.7.jar"
 hash = "5c9d95ead2813fa21f472bbcff6a7518f13624efe598b89553d314e74ad4e616"
 
 [[files]]
+file = "mods/alive-gothic-horror.pw.toml"
+hash = "bb6975b74fb4fb450808fe03c445ecbc48bf1afb349ba4b5bac87e1c2c546ce2"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0357b866584007ec5f94611408760cab24b060c17440455fed1e68b8322417a3"
 metafile = true
@@ -317,6 +322,21 @@ hash = "dfd6857453bce77c51a3403fd308dd06f630f069e67fe094ea68b7ec1eb97e0f"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "0effa48083cb3e27be5dcaa2baecc8d06c03c6fe68c2387cef86f363fbe2654e"
+metafile = true
+
+[[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "4b84cf65e5ce9f33f2e89b520b5418fc868850bd43649550a72d9306f4aad2f8"
+metafile = true
+
+[[files]]
+file = "mods/door_knocker.pw.toml"
+hash = "48eb50f9e320b3cfc77a7774556417ec4fce25ff48c66e312c4c983e602ab354"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "516ea34af67f27bde4eae681fbcf28140353e99fba248f19764bf027081504cd"
 metafile = true
@@ -334,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "4cdef26cb25126fbf0f0b72ec7ccd4f285155c932140d3acc72787af35aef3b5"
+metafile = true
+
+[[files]]
+file = "mods/gstools.pw.toml"
+hash = "8501222656576b79b948f2449b24a727e9d1ae9a34790d2374ebf944ebc25172"
 metafile = true
 
 [[files]]
@@ -369,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "f6f48868882197339d11412d2f493fe63b6683e012d84f5cbd63f10378017ba0"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "f7af403d7913201f3a80da8d9aa4b5ce1f8c32c92a0b20b055da845ee99a6fc8"
 metafile = true
 
 [[files]]
@@ -428,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2457d4c59eff44e7d6c1f15781bdee045ffca1f7ce6a57a26b824847492974a6"
+hash = "894bbc09a4fd276ae857b9bf6470c68aa6e75fc70425bdfb26d94c1c20af8c5b"
 metafile = true
 
 [[files]]
@@ -444,6 +474,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-backpack.pw.toml"
 hash = "c391af1ece7621aa2bc089aada54eb9a4f8e7568ef0dcd6d949a311a6e81bb1e"
+metafile = true
+
+[[files]]
+file = "mods/villager-in-a-bucket.pw.toml"
+hash = "d677b31689c62b19694ec863bbbfa95f7560c776e188be042802bf18934fb2c6"
 metafile = true
 
 [[files]]

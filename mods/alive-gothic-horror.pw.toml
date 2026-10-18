@@ -1,0 +1,13 @@
+name = "Alive | Gothic Horror"
+filename = "gothic_horror-neoforge-26.3_1.68.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75e78b6d0c8cd3287073b7324c887787750bdabb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9166138
+project-id = 1710219

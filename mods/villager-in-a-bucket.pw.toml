@@ -1,0 +1,13 @@
+name = "Villager In A Bucket"
+filename = "villagerinabucket-neoforge-26.3-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IAvnm8Mq/versions/pwfOH8dS/villagerinabucket-neoforge-26.3-1.0.0.jar"
+hash-format = "sha512"
+hash = "782676f94b0b680503bc8dbcdb0f40e1c88c021a27c22a211019f8a2050459e7edf2111a68c60e79fff430c68606834b3f17c79c36ce8be4587bcc08f010fbaf"
+
+[update]
+[update.modrinth]
+mod-id = "IAvnm8Mq"
+version = "pwfOH8dS"
