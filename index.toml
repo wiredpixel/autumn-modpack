@@ -297,11 +297,6 @@ file = "mods/SereneSeasons-neoforge-26.3-26.1.2.0.7.jar"
 hash = "5c9d95ead2813fa21f472bbcff6a7518f13624efe598b89553d314e74ad4e616"
 
 [[files]]
-file = "mods/alive-gothic-horror.pw.toml"
-hash = "bb6975b74fb4fb450808fe03c445ecbc48bf1afb349ba4b5bac87e1c2c546ce2"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0357b866584007ec5f94611408760cab24b060c17440455fed1e68b8322417a3"
 metafile = true
@@ -354,11 +349,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "4cdef26cb25126fbf0f0b72ec7ccd4f285155c932140d3acc72787af35aef3b5"
-metafile = true
-
-[[files]]
-file = "mods/gstools.pw.toml"
-hash = "8501222656576b79b948f2449b24a727e9d1ae9a34790d2374ebf944ebc25172"
 metafile = true
 
 [[files]]
